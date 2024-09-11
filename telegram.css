@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(51, 48, 48);
+    color: white;
+    
+}
+
+
+
+.container  {
+    margin-top: 80px;
+    text-align: center;
+}
+
+strong {
+    
+    font-size: 20px;
+    line-height: 2;
+}
+
+.please {
+    text-align: center;
+}
+
+.fieldset1{
+    border-radius: 5px;
+    margin-top: 40px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.who{
+    background-color: inherit;
+    color: white;
+    border: none;
+}
+
+.what {
+    background-color: inherit;
+    color: white;
+    border: none;
+}
+
+.fieldset2 {
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mycheckbox{
+    margin:30px;
+
+    cursor: pointer;
+
+
+}
+
+h4{
+    margin-top: 45px;
+    text-align: center;
+    color: white
+}
